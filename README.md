@@ -1,4 +1,3 @@
-# vcf_database
 
 # Create a new database
 Simply run ``` create_database.py ```. The name of Database is 'Variants.db'. 
